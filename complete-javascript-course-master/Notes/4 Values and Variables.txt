@@ -1,0 +1,3 @@
+Value - A piece of data. The most fundamental unit of information in programming
+
+Variables can only contain letters, underscore or dollar sign($)

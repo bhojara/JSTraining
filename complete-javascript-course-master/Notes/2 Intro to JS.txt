@@ -1,0 +1,29 @@
+JavaScript is a high-level, object oriented, multi-paradigm programming language
+
+High-level means we dont have to worry about complex stuff like memory management
+Object-oriented means it is based on objects, for storing most kinds of data
+Multi-paradigm means we can use different styles of programming
+Programming Language means we instruct the computer to do things
+
+Web pages consist of HTML, CSS and JavaScript
+HTML -  The Content - stands for HyperText Markup Language1234. It is the standard markup language for creating web pages and web applications
+CSS  - Presentation of the content - stands for Cascading Style Sheets. It is a stylesheet language used to add layout and visual effects to HTML elements
+JavaScript plays a crucial role in modern web development. It is a scripting or programming language that allows you to implement complex features on web pages. Here are some of its key roles:
+
+	Dynamic Content Updates: JavaScript enables web pages to update and display new content dynamically. This means that the page does not need to be reloaded for new content to appear.
+
+	Interactive Features: JavaScript allows for the creation of interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, and more1. This enhances the user experience on the website.
+
+	Client and Server-side Scripting: JavaScript is used both on the client-side and server-side, enabling responsive, interactive, and functionally rich experiences. Technologies like Node.js have expanded its versatility beyond browser-based scripts.
+
+	Asynchronous Data Loading: JavaScript’s dynamic capabilities allow for asynchronous data loading with AJAX, reducing server load through client-side scripting.
+
+	Integration with APIs: JavaScript can utilize APIs for enriched web features.
+
+	Cross-platform Compatibility: As an interpreted language, JavaScript navigates cross-platform challenges.
+
+Think of HTML as the noun - the thing
+Think of CSS as the adjective - describe the thing
+Think of JS as the verb - what the thing does
+
+

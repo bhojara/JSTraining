@@ -1,0 +1,21 @@
+The 7 Primitive Data Types:
+
+The main three:
+Number: Floating point numbers used for decimals and integers - let age = 23
+String: Sequence of characters used for text - let firstName = "Jonas"; (always put in quotes)
+Boolean: Logical type that can only be true or false used for taking decisions - let fullAge = true;
+
+Others:
+Undefined: Value taken by a variable that is not yet defined ('empty value') - let children;
+Null: Also means 'empty value'
+Symbol (ES2015): Value that is unique and cannot be changed
+BigInt (ES2020): Larger integers than the Number type can hold
+
+Value has type, NOT variable
+
+
+
+
+
+
+

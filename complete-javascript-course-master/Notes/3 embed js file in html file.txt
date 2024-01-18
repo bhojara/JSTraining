@@ -1,0 +1,10 @@
+How to link a .js file to an html file: Usually goes at the end of the body
+  <body>
+    <h1>JavaScript Fundamentals – Part 1</h1>
+
+    <script src="script.js"></script>
+  </body>
+
+  As long as the script.js file is located in the same folder as the html file you dont need to include the full path.
+
+  

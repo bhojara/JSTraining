@@ -1,0 +1,43 @@
+Operators allow us to transform values or combine multiple values
+
+Mathematical Operators
+- minus
++ plus
+* multiply
+/ divide
+** exponential (2 ** 3 is 2 to the 3rd power)
+
+//////////////////////////////////////
+typeof - will show the type of value
+
+let javascriptIsFun = true;
+console.log(javascriptIsFun);
+console.log(typeof true);
+
+output would be:
+true
+boolean
+///////////////////////////////////////
+
+Assignment Operators
+= let x = 10 + 5; // 15
+x += 10; // x = x + 10 = 25
+x *= 4; // x = x * 4 = 100 (there is also \= which is the same but division)
+x++; // x = x + 1 = 101
+x--; // x = x - 1 = 100
+////////////////////////////////////////
+
+Comparison Operators
+ - Used to create boolean values
+> greater than
+< less than
+>= greater than or equal to  
+<= less than or equal to 
+
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+Monokai Pro theme
+
+Settings:
+Auto save - onFocusChange - automatically saves whenever you move the focus off of VS Code
+Font size - 18
+Multi Cursor Modifier - ctrlCmd
+Word Wrap - On
+Format On Save - Enable
+Settings -> Themes -> File Icon Theme - Seti
