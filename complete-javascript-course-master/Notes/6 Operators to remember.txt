@@ -1,4 +1,5 @@
 Operators allow us to transform values or combine multiple values
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
 
 Mathematical Operators
 - minus
