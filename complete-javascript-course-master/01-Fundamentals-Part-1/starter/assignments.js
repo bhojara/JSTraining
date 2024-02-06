@@ -8,7 +8,7 @@ console.log(population);
 
 const isIsland = false;
 const language = "English";
-//isIsland = true;
+
 console.log(typeof isIsland);
 console.log(typeof population);
 console.log(typeof country);
@@ -48,4 +48,28 @@ if (population > 33) {
       averagePopulation - population
     } million below average`
   );
+}
+
+console.log("9" - "5"); // -> ?
+console.log("19" - "13" + "17"); // -> ?
+console.log("19" - "13" + 17); // -> ?
+console.log("123" < 57); // -> ?
+console.log(5 + 6 + "4" + 9 - 4 - 2); // -> ?
+
+//Commenting out so that the prompt does not interfere with the rest of the assignments
+// const numNeighbors = Number(
+//   prompt("How many neighbor countries does your country have?")
+// );
+// if (numNeighbors === 1) {
+//   console.log("Only 1 border!");
+// } else if (numNeighbors > 1) {
+//   console.log("More than 1 border");
+// } else {
+//   console.log("No borders");
+//}
+
+if (language === "English" && population < 50 && !isIsland) {
+  console.log(`You should live in ${country} :)`);
+} else {
+  console.log(`${country} does not meet your criteria :(`);
 }
