@@ -31,7 +31,7 @@ if (BMIMark > BMIJohn) {
   console.log(`Mark's BMI (${BMIMark}) is higher than John's (${BMIJohn})`);
 } else
   console.log(`John's BMI (${BMIJohn}) is higher than Mark's (${BMIMark})`);
-*/
+
 // const scoreDolphins = (96 + 108 + 89) / 3;
 // const scoreKoalas = (88 + 91 + 110) / 3;
 // if (scoreDolphins > scoreKoalas) {
@@ -55,3 +55,12 @@ if (scoreDolphins > scoreKoalas && scoreDolphins >= 100) {
 } else {
   console.log("TIE GAME! Both win the trophy");
 }
+*/
+
+const bill = 275;
+const tip = bill >= 50 && bill <= 300 ? bill * 0.15 : bill * 0.2;
+console.log(
+  `The bill was ${bill}, the tip was ${tip}, and the total value is ${
+    bill + tip
+  }`
+);

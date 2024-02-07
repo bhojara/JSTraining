@@ -1,0 +1,13 @@
+Javascript releases ES5 ES6+
+
+Mocha was first (1995), then became LiveScript then became Javascript
+JavaScript has almost nothing to do with Java, they are different languages
+
+2009 ES5 was released. 
+Then it went to an annual release cycle in 2015 with ES6 (ES2015)
+
+DONT BREAK THE WEB mindset. Backwards compatible to the beginning. 
+
+
+
+
