@@ -1,4 +1,3 @@
-/*
 const massMark = 78;
 const heightMark = 1.69;
 const massJohn = 92;
@@ -55,7 +54,6 @@ if (scoreDolphins > scoreKoalas && scoreDolphins >= 100) {
 } else {
   console.log("TIE GAME! Both win the trophy");
 }
-*/
 
 const bill = 275;
 const tip = bill >= 50 && bill <= 300 ? bill * 0.15 : bill * 0.2;
